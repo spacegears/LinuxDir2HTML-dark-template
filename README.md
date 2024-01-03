@@ -19,4 +19,4 @@ I would love to hear you feedback! Should you have any questions or improvement 
 Update the icons maybe?
 
 ### License
-The original template.html file copyright (C) by Dan [(Snap2HTML)](https://www.rlvision.com/snap2html/) and is licensed as GPLv3.
+The original template.html file copyright (C) by Dan ([Snap2HTML](https://www.rlvision.com/snap2html/)) and is licensed as GPLv3.
