@@ -15,5 +15,8 @@ I would love to hear you feedback! Should you have any questions or improvement 
 ### Demo
 [https://spacegears.github.io/LinuxDir2HTML-dark-template/demo.html](https://spacegears.github.io/LinuxDir2HTML-dark-template/demo.html)
 
+### To do
+Update the icons maybe?
+
 ### License
 The original template.html file copyright (C) by Dan [(Snap2HTML)](https://www.rlvision.com/snap2html/) and is licensed as GPLv3.
