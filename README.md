@@ -1,6 +1,6 @@
 # LinuxDir2HTML-dark-template
 
-I absolutely loved [Snap2HTML](https://www.rlvision.com/snap2html/) back in my Windows days and I was thrilled to see that it was also ported over to Linux as [LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) when I made the switch in 2021. It has pretty much everything you need and nothing you don't, the only thing I was missing was the option for a dark theme. So here it is, my version of a dark theme, maybe others will find it useful, too. The goal was to be as consistent with the colors as possible, also to have as few changes as possible.
+I absolutely loved [Snap2HTML](https://github.com/rlv-dan/Snap2HTML) back in my Windows days and I was thrilled to see that it was also ported over to Linux as [LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) when I made the switch in 2021. It has pretty much everything you need and nothing you don't, the only thing I was missing was the option for a dark theme. So here it is, my version of a dark theme, maybe others will find it useful, too. The goal was to be as consistent with the colors as possible, also to have as few changes as possible.
 
 I didn't want to fork the official repository, so you'll need to download this template separately.
 
@@ -19,4 +19,4 @@ I would love to hear you feedback! Should you have any questions or improvement 
 Update the icons maybe?
 
 ## License
-The original template.html file copyright (C) by Dan ([Snap2HTML](https://www.rlvision.com/snap2html/)) and is licensed as GPLv3.
+The original template.html file copyright (C) by Dan ([Snap2HTML](https://github.com/rlv-dan/Snap2HTML)) and is licensed as GPLv3.
